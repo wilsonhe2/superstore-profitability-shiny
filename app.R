@@ -3,6 +3,7 @@ if (file.exists("setup.R")) {
   source("setup.R")
 }
 
+library(markdown)
 library(shiny)
 library(tidyverse)
 library(bslib)

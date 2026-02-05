@@ -1,6 +1,6 @@
 #Download required packages
 required_pkgs <- c(
-  "shiny", "tidyverse", "bslib", "thematic", "shinycssloaders",
+  "markdown", "shiny", "tidyverse", "bslib", "thematic", "shinycssloaders",
   "shinyjs", "DT", "plotly", "readr"
 )
 
