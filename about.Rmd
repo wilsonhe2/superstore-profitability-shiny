@@ -1,0 +1,16 @@
+---
+title: "About"
+---
+
+## Author
+- Name: Wilson He
+- Email: wilsonh4@illinois.edu
+
+## Purpose
+This application provides insight into the change of profitability of certain categories of products across the continental United States including the District of Columbia (Washington D.C.) ranging from 2014 to 2017. Additionally, it provides the 5 most profitable and least profitable states for a category of products in a given year. This information can be utilized by companies to determine which states to begin business in or where they should expand to next. 
+
+## Data 
+The data was obtained from Kaggle. It describes purchases by consumers and provides consumer information along with sales data. The data is based on American consumers and does not include information from Alaska and Hawaii, but does include the District of Columbia. 
+
+## References
+[Superstore Sales](https://www.kaggle.com/code/danishmubashar/superstore-sales-profit-discount-predict/notebook)
