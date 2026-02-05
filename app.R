@@ -1,3 +1,8 @@
+# Downloads required packages
+if (file.exists("setup.R")) {
+  source("setup.R")
+}
+
 library(shiny)
 library(tidyverse)
 library(bslib)
@@ -7,6 +12,7 @@ library(shinyjs)
 library(DT)
 library(plotly)
 
+# Data preparation
 if (!file.exists("data/sales.csv")) {
   source("processing.R")
 }
